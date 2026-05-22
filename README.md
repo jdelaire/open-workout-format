@@ -29,6 +29,17 @@ The format is stable enough to build prototypes and fixtures against, but it may
 - [AMRAP](examples/amrap.md)
 - [Strength day](examples/strength-day.md)
 
+### Real-World Pattern Fixtures
+
+These examples are synthetic and rights-safe. They mirror common structures found in real training PDFs without copying source program content.
+
+- [Tempo strength day](examples/real-world-patterns/tempo-strength-day.md)
+- [Rehab calendar day](examples/real-world-patterns/rehab-calendar-day.md)
+- [Compact week session](examples/real-world-patterns/compact-week-session.md)
+- [Max-rep test session](examples/real-world-patterns/max-rep-test-session.md)
+- [Note-heavy press day](examples/real-world-patterns/note-heavy-press-day.md)
+- [AMRAP with composite item](examples/real-world-patterns/amrap-composite-item.md)
+
 ## Design Goals
 
 1. Preserve intent over precision.
